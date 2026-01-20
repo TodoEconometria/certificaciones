@@ -102,14 +102,16 @@ Muchas personas creen que por estar en un entorno "Open Source" las leyes de pro
 2. Honestidad técnica.
 3. Capacidad de trabajar sobre estándares establecidos.
 
+### 🎓 Cómo citar:
 ## Cómo referenciar correctamente (Protocolo Obligatorio)
 
-Para evitar cualquier conflicto con la **Ley de Propiedad Intelectual (LPI 2026)** y los términos de servicio de GitHub (DMCA), inserta este bloque en tus archivos:
 
-## Créditos y Referencias
-Este proyecto/script/otro ha sido desarrollado siguiendo la metodología y el código base del curso de *Big Data*.
-* *Autor original/Referencia:* [@TodoEconometria](https://github.com/TodoEconometria)
-* *Profesor:* Juan Marcelo Gutierrez Miranda
-* *Hash ID de Certificación:* 4e8d9b1a5f6e7c3d2b1a0f9e8d7c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2f1e0d9c
----
+> Créditos y Referencias
+> Este proyecto ha sido desarrollado siguiendo la metodología y el código base de **Juan Marcelo Gutierrez Miranda** [@Todoeconometria](https://github.com/TodoEconometria).
+> * **Autor original:** [Juan Marcelo Gutierrez Miranda](https://github.com/TodoEconometria)
+> * **Institución:** @TodoEconometria
+> * **Hash de Certificación:** `4e8d9b1a5f6e7c3d2b1a0f9e8d7c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2f1e0d9c`
+
+_Cumple con la normativa DMCA y la Ley de Propiedad Intelectual (LPI 2026)._
+
 © 2026 TodoEconometria - Todos los derechos reservados.
